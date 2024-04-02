@@ -3,7 +3,7 @@
 network:
   version: 2
   ethernets:
-    enp0s3:
+    eth0:
       dhcp4: false
       dhcp6: false
       addresses:
